@@ -1,10 +1,8 @@
 # 📊 E-Commerce Sales Performance Dashboard
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-555555?style=flat-square)
-![Pivot Tables](https://img.shields.io/badge/Pivot_Tables-555555?style=flat-square)
-![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-555555?style=flat-square)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-555555?style=flat-square)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoftexcel&logoColor=white)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-lightgrey)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-lightgrey)
 
 > An interactive Business Intelligence dashboard built in Microsoft Excel to transform raw e-commerce transaction data into actionable business insights through data cleaning, analysis, and visualization.
 
