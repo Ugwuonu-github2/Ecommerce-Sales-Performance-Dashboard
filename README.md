@@ -2,7 +2,6 @@
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power_Query-5E81AC?style=flat-square)
-![Pivot Tables](https://img.shields.io/badge/Pivot_Tables-4C78A8?style=flat-square)
 ![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-1F4E79?style=flat-square)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-6B7280?style=flat-square)
 
