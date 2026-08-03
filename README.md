@@ -178,13 +178,12 @@ Potential enhancements include:
 
 ---
 
-## 📖 Related Project
+## Related Project
 
-The complete data-cleaning and exploratory analysis for this dataset is available on Kaggle:
+This dashboard has a companion Python implementation on GitHub and Kaggle.
 
-**E-Commerce Customer Analytics**
-
-https://www.kaggle.com/code/ugwuonudennis/e-commerce-customer-analytics
+- 📘 GitHub: E-Commerce Sales Performance Analysis with Python
+- 📙 Kaggle: https://www.kaggle.com/code/ugwuonudennis/e-commerce-sales-performance-analysis
 
 ---
 
