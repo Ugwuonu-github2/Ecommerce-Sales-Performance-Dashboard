@@ -160,8 +160,7 @@ Ecommerce-Sales-Performance-Dashboard/
 ├── Ecommerce_Sales_Performance_Dashboard.xlsx
 ├── README.md
 ├── LICENSE
-└── images/
-    └── dashboard.png
+└── excel_dashboard.png
 ```
 
 ---
