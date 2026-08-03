@@ -58,7 +58,7 @@ This project answers several important business questions:
 The dashboard provides an executive view of e-commerce sales performance through interactive KPI cards, revenue trends, customer insights, product analysis, and dynamic filtering.
 
 <p align="center">
-  <img src="images/excel_dashboard.png" alt="E-Commerce Sales Performance Dashboard" width="1000">
+  <img src="excel_dashboard.png" alt="E-Commerce Sales Performance Dashboard" width="1000">
 </p>
 
 ---
